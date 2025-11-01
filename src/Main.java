@@ -1,5 +1,9 @@
-import java.io.IOException;
+// Erdem Tuzla
+// 2024700114
+// erdem.tuzla@std.bogazici.edu.tr
+// CMPE436-Assignment 1 - Question 2
 
+import java.io.IOException;
 import utility.InputReader;
 import components.Grid;
 import logic.GenerationProcessor;
